@@ -1,0 +1,16 @@
+.night{
+background-color: black;
+color:white;
+}
+.day{
+background-color: white;
+color: black;
+}
+.def{
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: block;
+  margin: auto;
+}
